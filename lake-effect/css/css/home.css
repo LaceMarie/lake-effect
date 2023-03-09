@@ -1,0 +1,21 @@
+body {
+  font-family: fantasy;
+  color: rgb(93, 92, 107);
+  background: rgb(15, 7, 18);
+  text-align: center;
+}
+
+h1 {
+  color: rgb(136, 155, 178);
+}
+
+.button {
+  border: ridge rgb(93, 92, 107) 4px;
+  margin: 15px;
+  font-size: 20px;
+  color: rgb(136, 155, 178);
+}
+
+.button:hover {
+  color: rgb(93, 92, 107);
+}
